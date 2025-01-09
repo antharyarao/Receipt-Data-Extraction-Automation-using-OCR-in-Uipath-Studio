@@ -1,0 +1,1 @@
+# Receipt-Data-Extraction-Automation-using-OCR-in-Uipath-Studio
